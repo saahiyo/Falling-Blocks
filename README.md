@@ -15,7 +15,7 @@ Falling Blocks is a simple interactive web project created using HTML, CSS, and 
 To run this project locally, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/falling-blocks.git
+git clone https://github.com/saahiyo/falling-blocks.git
 ```
 Then, open the index.html file in your web browser.
 
