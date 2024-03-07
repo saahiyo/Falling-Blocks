@@ -31,9 +31,9 @@ h1 {
    border:1px solid black;
    position:relative;
    background-color:#424242;
-   width:35px;
+   width:37px;
    display:block;
-   height:37px;
+   height:39px;
  }
  .container .box.active{
    background-color:#0f0;
