@@ -2,6 +2,10 @@
 
 Falling Blocks is a simple interactive web project created using HTML, CSS, and JavaScript. In this project, blocks fall upon mouse hover, accompanied by dynamic color changes. It provides a fun and engaging user experience.
 
+## preview 🌐 
+
+![preview](https://github.com/saahiyo/Falling-Blocks/assets/81853097/f71520dc-849c-40cb-961c-4f9ddc464cf1)
+
 ## Features
 - Blocks fall upon mouse hover
 - Dynamic color changes on hover
